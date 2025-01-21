@@ -5,7 +5,7 @@ This repository hosts the geometry, code, and data to reproduce the results pres
 
 ### Access to the dataset
 
-The figures can be reproduced using the reduced dataset which can be accessed via: [10.4121/cb6b5bc6-d50a-4efc-863d-d756cdc698e5](10.4121/cb6b5bc6-d50a-4efc-863d-d756cdc698e5) which includes
+The figures can be reproduced using the reduced dataset which can be accessed via: [doi:10.4121/cb6b5bc6-d50a-4efc-863d-d756cdc698e5](doi:10.4121/cb6b5bc6-d50a-4efc-863d-d756cdc698e5) which includes
 - The 1D profiles as a function of the wave phase (10 wave phases) and the vertical grid `zgrid.dat`
 - Python scripts to reproduce the figures and load the data
 
