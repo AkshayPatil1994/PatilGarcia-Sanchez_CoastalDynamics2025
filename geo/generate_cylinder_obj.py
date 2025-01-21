@@ -67,7 +67,7 @@ if __name__ == "__main__":
     spacing_x = 0.06
     spacing_y = 0.06
     radius = 0.02
-    height = 0.037
+    height = 0.035
 
     # Generate serial arrangement
     serial_scene = arrange_cylinders_serial(rows, cols, spacing_x, spacing_y, radius, height)
